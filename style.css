@@ -17,10 +17,12 @@ body {
 header {
     grid-area: header;
     backgroud-color:black;
+    color:white;
 }
 main {
     grid-area: center;
     backgroud-color:black;
+    color:white;
 }
 nav {
     grid-area: left;
