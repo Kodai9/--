@@ -16,9 +16,11 @@ body {
 }
 header {
     grid-area: header;
+    backgroud-color:black;
 }
 main {
     grid-area: center;
+    backgroud-color:black;
 }
 nav {
     grid-area: left;
