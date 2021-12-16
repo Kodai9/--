@@ -22,9 +22,11 @@ main {
 }
 nav {
     grid-area: left;
+    backgroud-color:white;
 }
 aside {
     grid-area: right;
+    backgroud-color:white;
 }
 footer {
     grid-area: footer;
